@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dangtuanbinh/Dressing-room.git/static/css/main.e5f89e72.chunk.css",
+    "main.js": "/dangtuanbinh/Dressing-room.git/static/js/main.465daa77.chunk.js",
+    "main.js.map": "/dangtuanbinh/Dressing-room.git/static/js/main.465daa77.chunk.js.map",
+    "runtime-main.js": "/dangtuanbinh/Dressing-room.git/static/js/runtime-main.eaef7d38.js",
+    "runtime-main.js.map": "/dangtuanbinh/Dressing-room.git/static/js/runtime-main.eaef7d38.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/dangtuanbinh/Dressing-room.git/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b93dd41d.chunk.js": "/dangtuanbinh/Dressing-room.git/static/js/2.b93dd41d.chunk.js",
+    "static/js/2.b93dd41d.chunk.js.map": "/dangtuanbinh/Dressing-room.git/static/js/2.b93dd41d.chunk.js.map",
+    "index.html": "/dangtuanbinh/Dressing-room.git/index.html",
+    "precache-manifest.99892fc9f7a294080824748b60f2a5c6.js": "/dangtuanbinh/Dressing-room.git/precache-manifest.99892fc9f7a294080824748b60f2a5c6.js",
+    "service-worker.js": "/dangtuanbinh/Dressing-room.git/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/dangtuanbinh/Dressing-room.git/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.e5f89e72.chunk.css.map": "/dangtuanbinh/Dressing-room.git/static/css/main.e5f89e72.chunk.css.map",
+    "static/js/2.b93dd41d.chunk.js.LICENSE.txt": "/dangtuanbinh/Dressing-room.git/static/js/2.b93dd41d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaef7d38.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b93dd41d.chunk.js",
+    "static/css/main.e5f89e72.chunk.css",
+    "static/js/main.465daa77.chunk.js"
+  ]
+}
